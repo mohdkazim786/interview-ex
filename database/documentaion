@@ -1,0 +1,52 @@
+(1).Language 
+		PHP(CI)
+
+(2). Link Address
+		http://localhost/ci_crud/
+
+(3). Databes name is 
+		ci_crud.sql
+
+
+
+-  Create a form with following fields
+
+  a. First Name
+
+  b. Last Name
+
+  c. Email
+
+  d. Date of Birth
+
+  e. Telephone/Mobile
+
+  f. Designation
+
+  g. Gender (Radio)
+
+  h. Hobbies (Checkboxes with 4 hobbies)
+
+  g. Submit Button
+
+  
+
+  Create a table name as user info with fields for above input types
+
+  On Submit fields values need to be saved in database (Also put validation for empty fields in php)
+
+  Create a page for showing user info data a table.
+
+
+  Machine Test  Round 
+Both  task is complete(1).Language 
+		PHP(CI)
+
+(2). Link Address
+		http://localhost/ci_crud/
+
+(3). Databes name is 
+		ci_crud.sql
+
+(4). Drive link
+https://drive.google.com/drive/folders/1vGL7gqvIWuB6EQR0djkg-FY3rpOgKyel?usp=sharing
